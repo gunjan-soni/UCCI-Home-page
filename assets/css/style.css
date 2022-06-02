@@ -367,10 +367,12 @@ h6 {
 
 
 /*--------------------------------------------------------------
-# Hero Section
+# 
+Section
 --------------------------------------------------------------*/
 
-#hero {
+#
+{
     width: 100%;
     height: 70vh;
     background: url("https://ucciudaipur.com/wp-content/uploads/2021/10/Ucci-scaled.jpg") top center;
